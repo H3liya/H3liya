@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👽, I'm H3liya</h1>
 <h3 align="center">im just a cat 🙀 </h3>
-و,
-<img align="right" alt="sheikh" width ="400" src="[https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774](https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif)"
+
 
 - 🔭 I’m currently working on **nothing**
 
